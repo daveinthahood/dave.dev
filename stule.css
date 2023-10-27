@@ -343,6 +343,7 @@ footer .column .socials {
     display: flex;
     align-items: center;
     gap: 1rem;
+    text-align: center;
 }
 
 footer .column .socials a{
