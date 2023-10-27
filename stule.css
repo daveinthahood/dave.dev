@@ -297,9 +297,20 @@ section .header {
     border: 2px solid #fff;
 }
 
-.pricing .card button:hover{
+.pricing .card .project-link:hover{
     background-color: #1e40af;
     border-color: #1e40af;
+}
+
+.project-link {
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    color: #fff;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 
