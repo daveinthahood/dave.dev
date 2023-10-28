@@ -343,7 +343,7 @@ footer .column .socials {
     display: flex;
     align-items: center;
     gap: 1rem;
-    text-align: center;
+    text-align: center ;
 }
 
 footer .column .socials a{
@@ -379,6 +379,13 @@ footer .column > a{
 footer .column > a:hover {
     color: #1d4ed8;
 
+}
+
+.link-we{
+    color: #fff;
+    background-color: transparent;
+    border: 2px solid #fff;
+    border-radius: 15px;
 }
 
 
